@@ -43,4 +43,4 @@ Supported sales forecasting and planning with trend analysis
 
 Enabled data-driven decision making without requiring advanced BI tools
 
-🖼 Screenshot
+🖼 Screenshot : [ https://github.com/Devansh-D29/Vrinda-Sales-Analysis-Dashboard-Excel-/blob/main/Sales%20Dasboard.png ]
