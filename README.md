@@ -1,4 +1,5 @@
-📊 **Vrinda Sales Analysis Dashboard (Excel)**
+📊 ****Vrinda Sales Analysis Dashboard (Excel)****
+
 📝 **Project Headline**
 
 Vrinda Sales Analysis Dashboard – An Excel-based interactive dashboard to analyze and visualize sales performance for data-driven decision making.
@@ -7,7 +8,7 @@ Vrinda Sales Analysis Dashboard – An Excel-based interactive dashboard to anal
 
 This project presents a comprehensive sales analysis dashboard built in Microsoft Excel. It highlights monthly trends, product performance, and regional contributions, enabling businesses to quickly identify growth opportunities and address challenges.
 
-🛠 Tech Stack
+🛠 **Tech Stack**
 
 Microsoft Excel (Pivot Tables, Charts, Slicers, Conditional Formatting)
 
@@ -19,21 +20,21 @@ Historical sales dataset of Vrinda Store (structured in Excel format)
 
 Fields include: Order Date, Region, Product Category, Sales, Quantity, Profit, etc.
 
-✨ **Highlights / Features**
+✨ Highlights / Features
 
-📅 **Monthly & Yearly Sales Trends**
+📅 Monthly & Yearly Sales Trends
 
-📦 **Top & Bottom Performing Products**
+📦 Top & Bottom Performing Products
 
-🌍 **Region / State-wise Sales Distribution**
+🌍 Region / State-wise Sales Distribution
 
-📈 R**evenue & Profit Comparison**
+📈 Revenue & Profit Comparison
 
-🔄 **Interactive Filters (Slicers for category, region, and time)**
+🔄 Interactive Filters (Slicers for category, region, and time)
 
-📊 **Easy-to-understand Visuals for quick insights**
+📊 Easy-to-understand Visuals for quick insights
 
-💡 **Business Impact & Insights**
+💡 Business Impact & Insights
 
 Helped identify top revenue-generating products & regions
 
@@ -43,4 +44,4 @@ Supported sales forecasting and planning with trend analysis
 
 Enabled data-driven decision making without requiring advanced BI tools
 
-🖼 Screenshot : [ https://github.com/Devansh-D29/Vrinda-Sales-Analysis-Dashboard-Excel-/blob/main/Sales%20Dasboard.png ]
+🖼 **Screenshot** : [ https://github.com/Devansh-D29/Vrinda-Sales-Analysis-Dashboard-Excel-/blob/main/Sales%20Dasboard.png ]
