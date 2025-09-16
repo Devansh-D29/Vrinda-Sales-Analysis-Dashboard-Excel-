@@ -28,3 +28,5 @@ Advanced Formulas: I utilized a variety of formulas like SUMIFS, COUNTIFS, and G
 Data Visualization: I focused on designing a clean, user-friendly dashboard that communicates insights effectively.
 
 Dashboard Design: I learned how to structure a dashboard logically, using elements like shapes, icons, and conditional formatting to improve readability and visual appeal.
+
+Preview of my file : https://github.com/Devansh-D29/Vrinda-Sales-Analysis-Dashboard-Excel-/blob/main/Screenshot%202025-09-16%20175641.png
