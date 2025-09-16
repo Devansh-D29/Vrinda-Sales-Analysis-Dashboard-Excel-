@@ -20,7 +20,7 @@ Historical sales dataset of Vrinda Store (structured in Excel format)
 
 Fields include: Order Date, Region, Product Category, Sales, Quantity, Profit, etc.
 
-✨ Highlights / Features
+✨ **Highlights / Features**
 
 📅 Monthly & Yearly Sales Trends
 
@@ -34,7 +34,7 @@ Fields include: Order Date, Region, Product Category, Sales, Quantity, Profit, e
 
 📊 Easy-to-understand Visuals for quick insights
 
-💡 Business Impact & Insights
+💡 **Business Impact & Insights**
 
 Helped identify top revenue-generating products & regions
 
